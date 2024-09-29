@@ -1,2 +1,2 @@
 # Abu_Dhabi_Hotel
-Developing software for hotel reservation
+This repository, Abu_Dhabi_Hotel, contains a Python-based hotel reservation system designed for a hotel in Abu Dhabi. The system allows customers to search for available rooms, make reservations, modify existing bookings, and process payments. It implements key software engineering concepts such as object-oriented programming and UML modeling. The project includes well-documented Python classes for Customer, Room, Reservation, Payment, and Hotel, along with accompanying UML Use-Case and Class Diagrams that illustrate the system architecture and interactions.
